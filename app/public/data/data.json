@@ -1,6 +1,42 @@
 {
-  "boards": [],
-  "tasks": [],
+  "boards": [
+    {
+      "name": "groceries",
+      "user": 0,
+      "id": 6466154687,
+      "starred": false,
+      "created": "2023-09-22"
+    }
+  ],
+  "tasks": [
+    {
+      "boardId": 6466154687,
+      "description": "",
+      "completed": false,
+      "listId": 42064005171,
+      "title": "test1",
+      "id": 43991422665,
+      "created": "2023-09-22",
+      "deadline": "2023-09-25"
+    },
+    {
+      "boardId": 6466154687,
+      "description": "",
+      "completed": false,
+      "listId": 42064005171,
+      "title": "milk2",
+      "id": 32806752149,
+      "created": "2023-09-22",
+      "deadline": "2023-09-25"
+    }
+  ],
   "users": [],
-  "lists": []
+  "lists": [
+    {
+      "boardId": 6466154687,
+      "title": "To buy",
+      "id": 42064005171,
+      "created": "2023-09-22"
+    }
+  ]
 }
